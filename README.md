@@ -1,18 +1,18 @@
 <!-- BLOG-POST-LIST:START -->
 
-<h2 align="center">
+<h2 align="left">
 👋 Hello.. I'm Bima Agung 
 </h2>
 
-<p align="center">
+<p align="left">
  :telescope: I’m focus as a Backend Engineer.
 </p>
 
-<p align="center">
+<p align="left">
  :grin: Exploring about Backend Engineer.
 </p>
 
-<div align="center">
+<div align="left">
 
  :mailbox:How to reach me: 
 
@@ -20,7 +20,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
