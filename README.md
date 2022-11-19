@@ -14,9 +14,9 @@
 
 <div align="left">
 
- :mailbox:How to reach me: 
-
-<a href="https://id.linkedin.com/in/bima-agung-setya-budi-03420a1a4"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
+ :mailbox:How to reach me:  
+ 
+ <a href="https://id.linkedin.com/in/bima-agung-setya-budi-03420a1a4"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
 
 </div>
 
