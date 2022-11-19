@@ -1,8 +1,8 @@
 <!-- BLOG-POST-LIST:START -->
 
-<h1 align="center">
+<h2 align="center">
 👋 Hello.. I'm Bima Agung 
-</h1>
+</h2>
 
 <p align="center">
  :telescope: I’m focus as a Backend Engineer.
