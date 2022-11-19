@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: bimaagung/blog-post-workflow@main
+      - uses: bimaagung/overview@main
         with:
           max_post_count: "4"
          
