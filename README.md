@@ -27,5 +27,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="NodeJS" alt="NodeJS" width="20" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="NodeJS" alt="NodeJS" width="30" height="40"/>&nbsp;
 </div>
-
 <!-- BLOG-POST-LIST:END -->
