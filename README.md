@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- :grin: Exploring about Backend Engineer.
+ :grin: Exploring about Backend Engineer Technology.
 </p>
 
 <div align="center">
