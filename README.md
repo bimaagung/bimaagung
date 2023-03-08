@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="NodeJS" alt="NodeJS" width="30" height="40"/>&nbsp; -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimaagung&show_icons=true&theme=transparent)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bimaagung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Bimaagung's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bimaagung&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!-- BLOG-POST-LIST:END -->
